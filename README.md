@@ -7,7 +7,7 @@
 - [ ] 解析 RAW 文件（下周）
 
 ## 效果展示
-![第一张测试图](file:///E:/Pictures/1/Lena.bmp.jpg)
+![第一张测试图](images/test.jpg)
 
 ## 脚本
 ```python
